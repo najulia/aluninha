@@ -1,13 +1,9 @@
-
-  <h1>Aluninha</h1> 
+  <h1>Controle de produtos</h1> 
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Python&message=3.1.10&color=blue&style=for-the-badge&logo=netlify"/>
   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
-
 </p>
-
-> :warning: Em desenvolvimento
 
 ### Tópicos 
 
