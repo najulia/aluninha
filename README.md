@@ -1,4 +1,4 @@
-  <h1>Controle de produtos</h1> 
+  <h1>Aluninha</h1> 
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Python&message=3.1.10&color=blue&style=for-the-badge&logo=netlify"/>
